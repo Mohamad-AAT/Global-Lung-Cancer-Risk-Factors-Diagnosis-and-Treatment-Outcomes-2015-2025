@@ -6,7 +6,7 @@ Interactive dashboards analyzing global lung cancer patterns, risk factors, diag
 Each dashboard explores a different aspect of lung cancer data:
 
 - **Global Overview**  
-  https://public.tableau.com/views/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 - **Risk Factors Analysis**  
   https://public.tableau.com/views/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
