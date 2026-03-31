@@ -1,4 +1,19 @@
 # Global-Lung-Cancer-Risk-Factors-Diagnosis-and-Treatment-Outcomes-2015-2025
+Interactive dashboards analyzing global lung cancer patterns, risk factors, diagnosis stages, and treatment outcomes. Explore trends across regions, age groups, and clinical outcomes to gain quick insights into lung cancer data.
+
+## 🔗 Quick Access to Dashboards
+
+Each dashboard explores a different aspect of lung cancer data:
+
+- **Global Overview**  
+  https://public.tableau.com/views/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+- **Risk Factors Analysis**  
+  https://public.tableau.com/views/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+- **Treatment Outcomes**  
+  https://public.tableau.com/views/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/Dashboard3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 ## Project Overview
 This Tableau project explores patterns in lung cancer risk factors, diagnosis stages, and treatment outcomes using a global patient dataset. The interactive dashboard visualizes relationships between demographic characteristics, lifestyle factors (like smoking and air pollution), and clinical outcomes, helping users understand trends across regions and populations.
 
