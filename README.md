@@ -1,13 +1,21 @@
 # Global-Lung-Cancer-Risk-Factors-Diagnosis-and-Treatment-Outcomes-2015-2025
 Interactive dashboards analyzing global lung cancer patterns, risk factors, diagnosis stages, and treatment outcomes. Explore trends across regions, age groups, and clinical outcomes to gain quick insights into lung cancer data.
 
-## 🔗 Quick Access to Dashboards
+## 🔗 Interactive Tableau Dashboards
 
-Each dashboard explores a different aspect of lung cancer data:
+Explore the interactive Tableau dashboards developed for this lung cancer analysis project:
 
-- [Global Overview Dashboard](https://public.tableau.com/views/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/Dashboard1)
-- [Risk Factors Analysis Dashboard](https://public.tableau.com/views/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/Dashboard2)
-- [Treatment Outcomes Dashboard](https://public.tableau.com/views/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/Dashboard3)
+- 🌍 **Global Overview Dashboard**  
+  Provides an overview of lung cancer cases, demographic distribution, and global patterns across the dataset.  
+  [Open Global Overview Dashboard](https://public.tableau.com/app/profile/mohammad5049/viz/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/CaseDistribution#1)
+
+- 🚬 **Risk Factors Analysis Dashboard**  
+  Examines the relationship between lifestyle, demographic, and clinical risk factors associated with lung cancer.  
+  [Open Risk Factors Analysis Dashboard](https://public.tableau.com/app/profile/mohammad5049/viz/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/Dashboard2#2)
+
+- 💊 **Treatment & Outcomes Dashboard**  
+  Explores treatment approaches, patient characteristics, and outcome patterns.  
+  [Open Treatment & Outcomes Dashboard](https://public.tableau.com/app/profile/mohammad5049/viz/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/Treatmentandoutcomes#1)
 
 ## Project Overview
 This Tableau project explores patterns in lung cancer risk factors, diagnosis stages, and treatment outcomes using a global patient dataset. The interactive dashboard visualizes relationships between demographic characteristics, lifestyle factors (like smoking and air pollution), and clinical outcomes, helping users understand trends across regions and populations.
