@@ -19,7 +19,7 @@ This Tableau project explores patterns in lung cancer risk factors, diagnosis st
 - Compare trends across demographic groups and geographic regions
 
 ## Data
-- **Source:** Kaggle (global lung cancer dataset)
+- **Source:** Kaggle (global lung cancer dataset) https://www.kaggle.com/datasets/zkskhurram/lung-cancer-clinical-dataset-20152025
 - **Preprocessing:** Cleaned and manipulated using Tableau “Groups” and calculated fields
 - **Age Groups:**
   - Lower Incidence: <49 years old
