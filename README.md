@@ -3,14 +3,16 @@ Interactive dashboards analyzing global lung cancer patterns, risk factors, diag
 
 ## 🔗 Interactive Tableau Dashboards
 
-Explore the interactive Tableau dashboards developed for this lung cancer analysis project:
+Explore the interactive Tableau dashboards developed for this lung cancer analysis project.
+
+> 💡 **Tip:** For the best viewing experience, open the dashboards in full screen mode. This will improve readability and ensure that dashboard titles, charts, and visualizations are displayed correctly.
 
 - 🌍 **Global Overview Dashboard**  
   Provides an overview of lung cancer cases, demographic distribution, and global patterns across the dataset.  
   [Open Global Overview Dashboard](https://public.tableau.com/app/profile/mohammad5049/viz/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/CaseDistribution#1)
 
-- 🚬 **Risk Factors Analysis Dashboard**  
-  Examines the relationship between lifestyle, demographic, and clinical risk factors associated with lung cancer.  
+- 🚬 **Lung Cancer Risk Factors Analysis Dashboard**  
+  Examines the relationship between demographic, lifestyle, and clinical risk factors associated with lung cancer.  
   [Open Risk Factors Analysis Dashboard](https://public.tableau.com/app/profile/mohammad5049/viz/GlobalLungCancerRiskFactorsDiagnosisandTreatmentOutcomes20152025/Dashboard2#2)
 
 - 💊 **Treatment & Outcomes Dashboard**  
